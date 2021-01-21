@@ -1,1 +1,1 @@
-https://delucasdelights.netlify.app/menu
+https://delucasdelights.netlify.app
